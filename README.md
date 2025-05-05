@@ -1,6 +1,6 @@
 # ¿Qué Se Celebra? - V8
 
-[![Imagen de la App](https://i.ibb.co/XkJZPBsK/freepik-a-realistic-arm-holding-a-smartphone-displaying-th-82337.jpg)]([qscapp.pages.dev])
+[![Imagen de la App](https://i.ibb.co/wZJFYqJg/file-00000000c8c061f7b19071aeed2f4f9b.png)]([qscapp.pages.dev])
 
 ¡Bienvenido al repositorio de sugerencias y feedback para la aplicación web "¿Qué Se Celebra?"!
 
