@@ -55,7 +55,7 @@ La mejor manera es creando un **"Issue"** (Incidencia) en este repositorio:
 
 Puedes probar la última versión de la aplicación aquí:
 
-**[➡️ Ver la Aplicación en Vivo ⬅️]([qscapp.pages.dev])**
+**[➡️ Ver la Aplicación en Vivo ⬅️](qscapp.pages.dev)**
 
 ## 🛠️ Información Técnica
 
